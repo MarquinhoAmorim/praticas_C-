@@ -1,0 +1,14 @@
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/bin/Debug/net8.0/Retangulo
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/bin/Debug/net8.0/Retangulo.deps.json
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/bin/Debug/net8.0/Retangulo.runtimeconfig.json
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/bin/Debug/net8.0/Retangulo.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/bin/Debug/net8.0/Retangulo.pdb
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.AssemblyInfoInputs.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.AssemblyInfo.cs
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.csproj.CoreCompileInputs.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/refint/Retangulo.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.pdb
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/Retangulo.genruntimeconfig.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Retangulo/obj/Debug/net8.0/ref/Retangulo.dll

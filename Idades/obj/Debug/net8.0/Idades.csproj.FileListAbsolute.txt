@@ -1,0 +1,15 @@
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/bin/Debug/net8.0/Idades
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/bin/Debug/net8.0/Idades.deps.json
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/bin/Debug/net8.0/Idades.runtimeconfig.json
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/bin/Debug/net8.0/Idades.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/bin/Debug/net8.0/Idades.pdb
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.AssemblyInfoInputs.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.AssemblyInfo.cs
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.csproj.CoreCompileInputs.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/refint/Idades.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.pdb
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.genruntimeconfig.cache
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/ref/Idades.dll
+/home/developer/Desenvolvimento/Estudo/Praticas_CSharp/Idades/obj/Debug/net8.0/Idades.sourcelink.json
